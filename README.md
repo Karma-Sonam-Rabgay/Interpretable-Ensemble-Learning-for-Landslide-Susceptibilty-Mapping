@@ -138,7 +138,7 @@ Please refer to these files for the actual evaluation metrics and findings. Resu
 - **Course:** CSE498R — Research Project
 - **Institution:** North South University
 - **Research Title:** Interpretable Ensemble Learning for Landslide Susceptibility Mapping: A Case Study of Bhutan
-- **Research Supervisor:** Dr. Dr. Mohammad Monirujjaman Khan
+- **Research Supervisor:** Dr. Mohammad Monirujjaman Khan
 
 ## Dataset Citation
 
